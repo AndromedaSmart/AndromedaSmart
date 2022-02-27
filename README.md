@@ -3,8 +3,8 @@ Some info:<br/>
 ITMO University, 2nd year of studying.
 - - -
 ### `Hard skills (IT):`
-- Back-end 
-  - C# (OOP) 
+- Back-end:
+  - C# (OOP)
   - C++
   - Java (OOP, some front)
 - Front-end:
