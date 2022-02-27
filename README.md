@@ -1,4 +1,4 @@
-### Hi there 👋
+### _Hi there 👋_
 
 <!--
 **AndromedaSmart/AndromedaSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
