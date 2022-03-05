@@ -4,14 +4,18 @@ ITMO University, 2nd year of studying.
 - - -
 ### `Hard skills (IT):`
 - Back-end:
-  - C# (OOP)
+  - C# (OOP + Frameworks)
   - C++
   - Java (OOP, some front)
 - Front-end:
-  - JavaScript (Vue)
+  - JavaScript (Vue.js)
   - Typescript
   - CSS 
   - HTML
+- Analytics:
+  - SQL
+  - Tableu
+  - Python
 - Tools:
   - Git 
   - Github 
@@ -26,15 +30,21 @@ ITMO University, 2nd year of studying.
 - - -
 ### `Achievements (at university):`
 - Admin of group (1st course)
-- Olimpiad volunteer (technical support, 1st course)
-- National team - MMA
+- Olimpiad volunteer (organization and technical support, 1st course)
+- National team - MMA (since 1st course and right now)
 - - -
 ### `Lifestyle:`
 - Location - Saint-Petersburg
 - Age - 19
 - Studying - ITMO University
-- Sport - Ice hockey, MMA
-- Hobbies - musician, singer, reading books and articles
+- Sport -
+  - In young years: Sports ballroom dancing, Baseball (proff.)
+  - In junior years: Ice hockey
+  - In adult years: MMA
+- Hobbies - 
+  - musician: (instruments: paino, guitar), singer, writing songs 
+  - Self-development: reading books and articles (exactly a lot)
+  - Other interests: business area, financial literacy, investments, time-managment
 <!--
 **AndromedaSmart/AndromedaSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
