@@ -4,8 +4,8 @@ ITMO University, 2nd year of studying.
 - - -
 ### `Hard skills (IT):`
 - Back-end:
-  - C# (OOP + Frameworks)
   - C++
+  - C# (OOP + Frameworks)
   - Java (OOP, some front)
 - Front-end:
   - JavaScript (Vue.js)
