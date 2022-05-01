@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </h2>
+    <img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt=""/>
 </div>
 
 Some info:<br/>
