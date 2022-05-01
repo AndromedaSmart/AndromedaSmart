@@ -1,25 +1,10 @@
 <div id="header" align="center">
   <h1>
-  Welcome to my page :)
-  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50px"/>
-  </h1>
-  </h2>
+  Welcome!
+  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
+</h1>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://vk.com/solnechniy_malchik_zaychik">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
-  </a>
-  <a href="https://www.instagram.com/skromniy_parenb/">
-    <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://t.me/AndromedaSmart">
-    <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/andromedasmart/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/
-  </h2>
-    </div>
-  </div>
+</div>
 
 Some info:<br/>
 ITMO University, 2nd year of studying.
