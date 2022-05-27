@@ -27,18 +27,22 @@ ITMO University, 2nd year of studying.
 - - -
 ### `Hard skills (IT):`
 - Back-end:
-  - C++
-  - C# (OOP + Frameworks)
-  - Java (OOP, some front)
+  - C++ (MSA)
+  - C# (OOP principles, frameworks: ASP.NET CORE, WPF, WF, Entity)
+  - Java (OOP principles, frameworks: Spring)
 - Front-end:
   - JavaScript (Vue.js)
   - Typescript
   - CSS 
   - HTML
+- DataBases (writing scripts of queries):
+  - T-SQL
+  - MySQL
+  - SparQL
 - Analytics:
-  - SQL
+  - MathStatistics
   - Tableu
-  - Python
+  - Python (for data proccesing)
 - Tools:
   - Git 
   - Github 
