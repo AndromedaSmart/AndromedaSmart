@@ -39,6 +39,7 @@ ITMO University, 2nd year of studying.
   - T-SQL
   - MySQL
   - SparQL
+  - RDF Data Expert
 - Analytics:
   - MathStatistics
   - Tableu
