@@ -23,7 +23,7 @@
 </div>
 
 Some info:<br/>
-ITMO University, 3nd year of studying.
+ITMO University, 3d year student.
 - - -
 ### `Hard skills (IT):`
 - Back-end:
