@@ -63,7 +63,7 @@ ITMO University, 3d year student.
 - - -
 ### `Lifestyle:`
 - Location - Saint-Petersburg
-- Age - 19
+- Age - 20
 - Studying - ITMO University
 - Sport -
   - In young years: Sports ballroom dancing, Baseball (proff.)
@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### _All rights reserved © 2022_
+###### _All rights reserved © AndromedaSmart, 2022-2023_
