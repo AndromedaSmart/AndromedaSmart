@@ -27,11 +27,13 @@ ITMO University, 3d year student.
 - - -
 ### `Hard skills (IT):`
 - Back-end:
+  - С
   - C++ (MSA)
   - C# (OOP principles, frameworks: ASP.NET CORE, WPF, WF, Entity)
   - Java (OOP principles, frameworks: Spring)
+  - Python (Flask, Django, Tornado)
 - Front-end:
-  - JavaScript (Vue.js)
+  - JavaScript (React.js, Vue.js)
   - Typescript
   - CSS 
   - HTML
@@ -40,10 +42,15 @@ ITMO University, 3d year student.
   - MySQL
   - SparQL
   - RDF Data Expert
+  - GraphQL
 - Analytics:
-  - MathStatistics
-  - Tableu
-  - Python (for data proccesing)
+  - Mathematics statistics
+  - Tableu (for data processing)
+  - Python (for data analyzing)
+- Mobile developing:
+  - iOS:
+    - Swift (and SwiftUI, UIKit)
+    - Objective-C
 - Tools:
   - Git 
   - Github 
@@ -53,13 +60,15 @@ ITMO University, 3d year student.
 - - -
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
-- trying to develop projects, self-development
-- Languages - Russian, English (Upper-intermediate)
+- Developing my own projects, self-development
+- Languages - Russian, English - Level B2 (Upper-intermediate)
 - - -
 ### `Achievements (at university):`
-- Admin of group (1st course)
-- Olimpiad volunteer (organization and technical support, 1st course)
-- National team - MMA (since 1st course and right now)
+- Admin of group M3109 (1st course)
+- Olimpiad volunteer (organization and technical support, 1-2 course)
+- National team at university - MMA (1-2st course)
+- National team at university - Rugby (since 3d course and right now)
+- National team at university - Floorball (since 3d course and right now)
 - - -
 ### `Lifestyle:`
 - Location - Saint-Petersburg
@@ -68,11 +77,11 @@ ITMO University, 3d year student.
 - Sport -
   - In young years: Sports ballroom dancing, Baseball (proff.)
   - In junior years: Ice hockey
-  - In adult years: MMA
+  - In adult years: MMA, Rugby, Floorball
 - Hobbies - 
-  - musician: (instruments: paino, guitar), singer, writing songs 
+  - musician: (instruments: paino, guitar), singer, writing songs (on Russian and in English)
   - Self-development: reading books and articles (exactly a lot)
-  - Other interests: business area, financial literacy, investments, time-managment
+  - Other interests: business area, financial literacy, investments, time-managment, setting goals and achieving goals
 <!--
 **AndromedaSmart/AndromedaSmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
