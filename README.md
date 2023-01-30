@@ -9,7 +9,7 @@
   <a href="https://vk.com/solnechniy_malchik_zaychik">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="https://www.instagram.com/skromniy_parenb/">
+  <a href="https://www.instagram.com/brokeoffboy/">
     <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/AndromedaSmart">
@@ -22,10 +22,13 @@
     <img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt=""/>
 </div>
 
-Some info:<br/>
-ITMO University, 3d year student.
+### :man_technologist: About Me :
+  I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+  - :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
+  - :seedling: Developing corporate business platform.
+  - :zap: In my free time, I'm looking for problems on StackoverFlow, trying to help people with their problems and read tech articles.
 - - -
-### `Hard skills (IT):`
+### `Hard skills:`
 - Back-end:
   - С
   - C++ (MSA)
@@ -95,5 +98,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Some info:<br/>
+ITMO University, 3d year student.
 -->
 ###### _All rights reserved © AndromedaSmart, 2022-2023_
