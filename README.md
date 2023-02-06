@@ -22,12 +22,6 @@
     <img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About Me :
-  I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
-  - :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
-  - :seedling: Developing corporate business platform.
-  - :zap: In my free time, I'm looking for problems on StackoverFlow, trying to help people with their problems and read tech articles.
-- - -
 ### `Hard skills:`
 - Back-end:
   - С
@@ -100,5 +94,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 Some info:<br/>
 ITMO University, 3d year student.
+
+### :man_technologist: About Me :
+  I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+  - :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
+  - :seedling: Developing corporate business platform.
+  - :zap: In my free time, I'm looking for problems on StackoverFlow, trying to help people with their problems and read tech articles.
+- - -
+
 -->
 ###### _All rights reserved © AndromedaSmart, 2022-2023_
