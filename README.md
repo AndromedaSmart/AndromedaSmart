@@ -70,8 +70,8 @@
 - - -
 ### `Achievements (at university):`
 - Admin of group M3109 (1st course)
-- Olimpiad volunteer (organization and technical support, 1-2 course)
-- National team at university - MMA (1-2st course)
+- Olimpiad volunteer (organization and technical support, 1-2nd course)
+- National team at university - MMA (1-3d course)
 - National team at university - Rugby (since 3d course and right now)
 - National team at university - Floorball (since 3d course and right now)
 - - -
