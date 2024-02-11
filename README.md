@@ -24,9 +24,9 @@
 
 ### :man_technologist: About Me:
   I am a Back-end Software Engineer/Developer right now, but, aspire to become a Full-stack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
-  - :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
+  <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
   - :seedling: Developing corporate business platform.
-  - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles.
+  - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
 - - -
 ### `Hard skills:`
 - Back-end:
@@ -66,7 +66,7 @@
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
 - Developing my own projects, self-development
-- Languages - Russian, English - Level B2 (Upper-intermediate), Spanish (A1, a little bit :) )
+- Languages - Russian, English - Level C1 (Advanced), Spanish (A2)
 - - -
 ### `Achievements (at university):`
 - Admin of group M3109 (1st course)
@@ -77,12 +77,12 @@
 - - -
 ### `Lifestyle:`
 - Location - Saint-Petersburg
-- Age - 20
+- Age - 21
 - Studying - ITMO University
 - Sport -
   - In young years: Sports ballroom dancing, Baseball (proff.)
   - In junior years: Ice hockey
-  - In adult years: MMA, Rugby, Floorball
+  - In adult years: MMA, Rugby, Floorball, Box
 - Hobbies - 
   - musician: (instruments: paino, guitar), singer, writing songs (on Russian and in English)
   - Self-development: reading books and articles (exactly a lot)
@@ -103,4 +103,4 @@ Here are some ideas to get you started:
 Some info:<br/>
 ITMO University, 3d year student.
 -->
-###### _All rights reserved © AndromedaSmart, 2022-2023_
+###### _All rights reserved © AndromedaSmart, 2022-2024_
