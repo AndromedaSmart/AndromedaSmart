@@ -32,20 +32,24 @@
 - Back-end:
   - С
   - C++ (MSA)
-  - C# (OOP principles, frameworks: ASP.NET CORE, WPF, WF, Entity)
-  - Java (OOP principles, frameworks: Spring)
+  - C# (OOP principles, frameworks: ASP.NET CORE, WPF, WF, Entity Framework)
+  - Java (OOP principles, frameworks: Spring Boot)
   - Python (Flask, Django, Tornado)
+  - Kotlin (OOP principles, frameworks: Spring Boot, Mockito)
 - Front-end:
   - JavaScript (React.js, Vue.js)
   - Typescript
   - CSS 
   - HTML
-- DataBases (writing scripts of queries):
+- DataBases (writing scripts of queries, work with, use on projects):
   - T-SQL
   - MySQL
   - SparQL
   - RDF Data Expert
   - GraphQL
+  - PostgreSQL
+  - MongoDB
+  - Oracle
 - Analytics:
   - Mathematics statistics
   - Tableu (for data processing)
@@ -62,6 +66,15 @@
   - MarkDown
   - Docker 
   - Azure
+  - Confluence
+  - Jira
+- Research activities:
+  - w
+- Architecture:
+  - Monolite (module system)
+  - Microservice
+  - Event Driven
+  - Data Driven Design
 - - -
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
