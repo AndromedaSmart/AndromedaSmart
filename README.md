@@ -27,6 +27,8 @@
   <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
   - :seedling: Developing corporate business platform.
   - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
+<!-- #### Projects I have worked on: -->
+
 - - -
 ### `Hard skills:`
 - Back-end:
@@ -68,13 +70,17 @@
   - Azure
   - Confluence
   - Jira
+  - RabbitMQ
+  - Kafka
+  - Kubernetes
 - Research activities:
-  - w
+  - Labs at "ITMO university" (ICT and FITiP)
 - Architecture:
   - Monolite (module system)
   - Microservice
   - Event Driven
   - Data Driven Design
+  - MVC
 - - -
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
