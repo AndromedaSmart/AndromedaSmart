@@ -81,6 +81,7 @@
   - Event Driven
   - Data Driven Design
   - MVC
+  - MVVM
 - - -
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
