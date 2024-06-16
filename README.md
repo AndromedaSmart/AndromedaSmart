@@ -38,6 +38,8 @@
   - Java (OOP principles, frameworks: Spring Boot)
   - Python (Flask, Django, Tornado)
   - Kotlin (OOP principles, frameworks: Spring Boot, Mockito)
+  - Node.js
+  - Nest.js
 - Front-end:
   - JavaScript (React.js, Vue.js)
   - Typescript
@@ -82,6 +84,8 @@
   - Data Driven Design
   - MVC
   - MVVM
+- Blockchain:
+  - Solidity (for smart-contracts)
 - - -
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
